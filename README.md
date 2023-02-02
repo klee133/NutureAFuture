@@ -16,8 +16,8 @@ Then I will create the website in HTML/CSS/Javascript.
 
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/katherine143/
-Email: klee133@fordham.edu
+- LinkedIn: https://www.linkedin.com/in/katherine143/
+- Email: klee133@fordham.edu
 
 
 ## Acknowledgements
